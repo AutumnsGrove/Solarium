@@ -5,17 +5,27 @@
 ---
 
 ## Project Purpose
-[Fill in: What this project does - 1-2 sentences]
+Solarium is a private freelance security consulting workbench. It's the workspace for Autumn's client engagements — intake, active work, shipping deliverables, and archiving completed work. Not a software project. A room.
 
 ## Tech Stack
-[Fill in: Technologies, frameworks, and languages used]
-- Language:
-- Framework:
-- Key Libraries:
-- Package Manager:
+- This is a documentation and organizational workspace, not a code project
+- Client engagements may involve any stack (SvelteKit, Python, Go, etc.)
+- Skills in `.claude/skills/` are the primary tooling (Raven, Osprey, etc.)
+- No package manager, no dependencies at the workspace level
 
 ## Architecture Notes
-[Fill in: Key architectural decisions, patterns, or structure]
+Four rooms, one pipeline:
+
+```
+Antechamber/ → Bench/ → Dispatch/ → Bodega/
+  (intake)      (work)   (ship)     (archive)
+```
+
+- **Antechamber/** — New client intake, initial 30-min assessments, inquiry notes
+- **Bench/** — Active engagements, one subfolder per client: `[client]-[YYYY-MM]/`
+- **Dispatch/** — Outgoing deliverables ready to send (proposals, reports, packages)
+- **Bodega/** — Completed engagement archives, the irreplaceable records
+- **docs/** — Templates and reference materials (the Bestiary's marginalia)
 
 ---
 
