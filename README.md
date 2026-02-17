@@ -27,8 +27,7 @@ Solarium/
 │                    you can't afford to lose.
 │
 └── docs/            The documents. Templates, reference materials,
-    ├── plans/       the Bestiary's marginalia.
-    └── scratch/
+                     the Bestiary's marginalia. All at hand.
 ```
 
 ---
@@ -41,7 +40,7 @@ Antechamber → Bench → Dispatch → Bodega
 ```
 
 The full engagement protocol lives in:
-→ [`docs/plans/drafts/freelance-engagement-runbook.md`](docs/plans/drafts/freelance-engagement-runbook.md)
+→ [`docs/freelance-engagement-runbook.md`](docs/freelance-engagement-runbook.md)
 
 ---
 
@@ -49,12 +48,12 @@ The full engagement protocol lives in:
 
 | Document | Purpose |
 |----------|---------|
-| [Engagement Runbook](docs/plans/drafts/freelance-engagement-runbook.md) | 8-phase pipeline, start to finish |
-| [Scope Cheat Sheet](docs/plans/drafts/freelance-scope-cheatsheet.md) | 5-question gate, pricing rules, red flags |
-| [Proposal Template](docs/plans/drafts/freelance-proposal-template.md) | Client-facing proposal format |
-| [Services Agreement](docs/plans/drafts/freelance-services-agreement.md) | Contract template |
-| [Portfolio Draft](docs/plans/drafts/portfolio-page-draft.md) | Arbor hero + page body copy |
-| [Naming Journey](docs/scratch/freelance-workbench-naming-journey.md) | How this workspace got its name |
+| [Engagement Runbook](docs/freelance-engagement-runbook.md) | 8-phase pipeline, start to finish |
+| [Scope Cheat Sheet](docs/freelance-scope-cheatsheet.md) | 5-question gate, pricing rules, red flags |
+| [Proposal Template](docs/freelance-proposal-template.md) | Client-facing proposal format |
+| [Services Agreement](docs/freelance-services-agreement.md) | Contract template |
+| [Portfolio Draft](docs/portfolio-page-draft.md) | Arbor hero + page body copy |
+| [Naming Journey](docs/freelance-workbench-naming-journey.md) | How this workspace got its name |
 
 ---
 
